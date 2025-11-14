@@ -1,0 +1,8 @@
+ultralytics>=8.0.0
+opencv-python
+numpy
+Pillow
+tqdm
+onnx
+onnxruntime
+tensorflow>=2.10.0
